@@ -11,6 +11,9 @@ Type the program.
 Save and Execute the program.
 Click on the crossing point of the root locus to find the value of K and poles at the crossing point.
 From the value of K, analyse the stability.
+![WhatsApp Image 2025-11-27 at 23 16 05_03aaab3f](https://github.com/user-attachments/assets/52061395-55bb-4419-9aa0-18ec2d2cfc91)
+![WhatsApp Image 2025-11-27 at 23 16 05_ae8afa65](https://github.com/user-attachments/assets/c1589619-773c-4cf8-afed-e2b751425e28)
+![WhatsApp Image 2025-11-27 at 23 16 05_693a334a](https://github.com/user-attachments/assets/4a6e4dfc-1bb3-4a54-b1ec-6dc00fcbe975)
 
 ## Procedure:
 	Open MATLAB software
